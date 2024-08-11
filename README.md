@@ -42,7 +42,6 @@ instagram: 0xi0m / telegram: @Verratti5 / My channel: @bv_rd
 6. python3 Cameras.py
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-![cam-dumper]([https://github.com/Verratti5/Camera.git](https://github.com/Verratti5/Cameras/blob/main/photo_2024-05-07_01-32-25.png))
-
+![cam-dumper]([[https://github.com/Verratti5/Cameras/blob/main/photo_2024-08-12_01-18-24.jpg]
 
 
